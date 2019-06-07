@@ -30,6 +30,6 @@ This is for dev mail testing.........
 * $ cd enviro-api
 * $ sh runner.sh OR mvn spring-boot:run
 
-
 UI - http://localhost:4200
 MailDev - http://localhost:1080 
+Swagger - http://localhost:9001/swagger-ui.html
