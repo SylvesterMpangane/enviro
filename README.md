@@ -3,9 +3,9 @@
 
 ### NB - Execution of any of the sh scripts will run the apps in the back ground
 
-##RUN ALL APPS WITH ONE COMMAND
+## RUN ALL APPS WITH ONE COMMAND
 In the enviro dir run the following command
-# $ sh runner.sh
+* $ sh runner.sh
 
 
 OR 
